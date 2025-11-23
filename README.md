@@ -117,6 +117,15 @@ When using these designs, consider:
 - **Integration**: May require an integrator circuit depending on your application
 - **Shielding**: Consider electromagnetic interference in your application environment
 
+
+## Author
+
+**[Fulong Li](https://fulongli.github.io/)**, Loughborough, 2020.
+
+
+## Related Papers 
+-
+
 ## License
 
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). See [LICENSE.md](LICENSE.md) for details.
@@ -127,14 +136,6 @@ You are free to:
 
 Under the following terms:
 - **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page or submit a pull request.
-
-## Acknowledgments
-
-This project provides open-source PCB designs for Rogowski coils to support the electronics and power measurement community.
 
 ---
 
