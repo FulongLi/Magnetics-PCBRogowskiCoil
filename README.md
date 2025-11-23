@@ -1,5 +1,10 @@
 # PCB Rogowski Coil
 
+![license - CC BY 4.0](https://img.shields.io/badge/license-CC--BY-green)
+![type - Hardware](https://img.shields.io/badge/type-Hardware-blue)
+![category - power electronics](https://img.shields.io/badge/category-power%20electronics-lightgrey)
+![status - archived](https://img.shields.io/badge/status-archived-red)
+
 A collection of PCB-based Rogowski coil designs for current sensing applications. This repository contains multiple coil configurations optimized for different measurement requirements.
 
 ## Overview
