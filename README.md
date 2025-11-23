@@ -25,57 +25,57 @@ This project provides five different PCB Rogowski coil designs, each optimized f
 
 ### Type 1 (RogT1)
 
-![RogT1 Top View](images/RogT1_t.png)
+<img src="images/RogT1_t.png" alt="RogT1 Top View" width="200"/>
 *Top view of Rogowski Coil Type 1*
 
-![RogT1 Bottom View](images/RogT1_b.png)
+<img src="images/RogT1_b.png" alt="RogT1 Bottom View" width="200"/>
 *Bottom view of Rogowski Coil Type 1*
 
-![RogT1 Design](images/RogT1_d.png)
+<img src="images/RogT1_d.png" alt="RogT1 Design" width="200"/>
 *Design view of Rogowski Coil Type 1*
 
 ### Type 2 (RogT2)
 
-![RogT2 Top View](images/RogT2_t.png)
+<img src="images/RogT2_t.png" alt="RogT2 Top View" width="200"/>
 *Top view of Rogowski Coil Type 2*
 
-![RogT2 Bottom View](images/RogT2_b.png)
+<img src="images/RogT2_b.png" alt="RogT2 Bottom View" width="200"/>
 *Bottom view of Rogowski Coil Type 2*
 
-![RogT2 Design](images/RogT2_d.png)
+<img src="images/RogT2_d.png" alt="RogT2 Design" width="200"/>
 *Design view of Rogowski Coil Type 2*
 
 ### Type 3 (RogT3)
 
-![RogT3 Top View](images/RogT3_t.png)
+<img src="images/RogT3_t.png" alt="RogT3 Top View" width="200"/>
 *Top view of Rogowski Coil Type 3*
 
-![RogT3 Bottom View](images/RogT3_b.png)
+<img src="images/RogT3_b.png" alt="RogT3 Bottom View" width="200"/>
 *Bottom view of Rogowski Coil Type 3*
 
-![RogT3 Design](images/RogT3_d.png)
+<img src="images/RogT3_d.png" alt="RogT3 Design" width="200"/>
 *Design view of Rogowski Coil Type 3*
 
 ### Type 4 (RogT4)
 
-![RogT4 Top View](images/RogT4_t.png)
+<img src="images/RogT4_t.png" alt="RogT4 Top View" width="200"/>
 *Top view of Rogowski Coil Type 4*
 
-![RogT4 Bottom View](images/RogT4_b.png)
+<img src="images/RogT4_b.png" alt="RogT4 Bottom View" width="200"/>
 *Bottom view of Rogowski Coil Type 4*
 
-![RogT4 Design](images/RogT4_d.png)
+<img src="images/RogT4_d.png" alt="RogT4 Design" width="200"/>
 *Design view of Rogowski Coil Type 4*
 
 ### Type 5 (RogT5)
 
-![RogT5 Top View](images/RogT5_t.png)
+<img src="images/RogT5_t.png" alt="RogT5 Top View" width="200"/>
 *Top view of Rogowski Coil Type 5*
 
-![RogT5 Bottom View](images/RogT5_b.png)
+<img src="images/RogT5_b.png" alt="RogT5 Bottom View" width="200"/>
 *Bottom view of Rogowski Coil Type 5*
 
-![RogT5 Design](images/RogT5_d.png)
+<img src="images/RogT5_d.png" alt="RogT5 Design" width="200"/>
 *Design view of Rogowski Coil Type 5*
 
 ## Design Files
