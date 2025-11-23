@@ -120,7 +120,7 @@ When using these designs, consider:
 
 ## Author
 
-**[Fulong Li](https://fulongli.github.io/)**, Loughborough, 2020.
+**[Fulong Li](https://fulongli.github.io/)**
 
 
 ## Related Papers 
